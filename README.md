@@ -32,13 +32,13 @@
 <b>Answer:</b>Get-WmiObject Win32_Shadowcopy | Remove-WmiObject <br>
 <b>Process:</b>Copy & paste the hash into Malware Bazaar, scroll down to the Vendor Threat Intelligence and click the link within Any Run, this will load Any Run and you will see the command on ther right hand side of the page, please see below<br>
 
-<img src= "" width="250" height="250"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src= "https://github.com/NickHoward1/Threat-Intelligence-Challenge-/blob/1666c3499fb159d92887857c8e88d658ccc91844/Screenshot%202026-06-14%20at%2019.30.40.png" width="250" height="250"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <b>Question6:</b>What MITRE ATT&CK ID is associated with the actions of the command?<br>
 <b>Answer:</b> 
 <b>Process:</b> 
 
-
+<img src= "" width="250" height="250"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
