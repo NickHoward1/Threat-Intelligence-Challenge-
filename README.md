@@ -20,7 +20,7 @@
 <b>Answer:</b> 2024-10-30 17:17:24 UTC<br>
 <b>Process:</b> Located within the details tab<br>
 
-<img src= "" width="250" height="250"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src= "https://github.com/NickHoward1/Threat-Intelligence-Challenge-/blob/13ea78d7dc1bdd0d46ebdc93c6526157ab7c1a45/Screenshot%202026-06-14%20at%2018.54.14.png" width="250" height="250"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <b>Question4:</b>Name the text file dropped during the execution of the malicious file.?<br>
 <b>Answer:</b> <br>
