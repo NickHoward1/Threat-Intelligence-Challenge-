@@ -23,14 +23,14 @@
 <img src= "https://github.com/NickHoward1/Threat-Intelligence-Challenge-/blob/13ea78d7dc1bdd0d46ebdc93c6526157ab7c1a45/Screenshot%202026-06-14%20at%2018.54.14.png" width="250" height="250"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <b>Question4:</b>Name the text file dropped during the execution of the malicious file.?<br>
-<b>Answer:</b> <br>
-<b>Process:</b> <br>
+<b>Answer:</b>akira_readme.txt <br>
+<b>Process:</b> Located within the relations tab<br>
 
-<img src= "" width="250" height="250"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src= "https://github.com/NickHoward1/Threat-Intelligence-Challenge-/blob/231ede6a2453cb863faac887014cf772ffc3eb94/Screenshot%202026-06-14%20at%2018.58.46.png" width="250" height="250"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <b>Question5:</b>What PowerShell command is observed to be executed?<br>
-<b>Answer:</b> <br>
-<b>Process:</b> <br>
+<b>Answer:</b>Get-WmiObject Win32_Shadowcopy | Remove-WmiObject <br>
+<b>Process:</b>Copy & paste the hash into Malware Bazaar, scroll down to the Vendor Threat Intelligence and click the link within Any Run, this will load Any Run and you will see the command on ther right hand side of the page, please see below<br>
 
 <img src= "" width="250" height="250"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
