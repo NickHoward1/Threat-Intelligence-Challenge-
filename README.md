@@ -5,3 +5,5 @@
 <b>Powershell:</b> `cd desktop\.'CTI Files' -> Get-Filehash -Algorithm -sha256 filename`
 <b>Mac0S:</b> `cd ~/Desktop/"CTI Files" -> shasum -a 256 filename`
 <b>Linux:</b> `cd ~/Desktop/"CTI Files" -> sha256sum filename`
+
+<img src= "" width="250" height="250"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
