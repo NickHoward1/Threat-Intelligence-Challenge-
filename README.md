@@ -35,10 +35,10 @@
 <img src= "https://github.com/NickHoward1/Threat-Intelligence-Challenge-/blob/1666c3499fb159d92887857c8e88d658ccc91844/Screenshot%202026-06-14%20at%2019.30.40.png" width="250" height="250"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <b>Question6:</b>What MITRE ATT&CK ID is associated with the actions of the command?<br>
-<b>Answer:</b> 
-<b>Process:</b> 
+<b>Answer:T1490</b> 
+<b>Process: Use AI or search witin the MITRE ATT&CK offical site</b> 
 
-<img src= "" width="250" height="250"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 
 
